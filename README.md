@@ -9,5 +9,5 @@ For ADD the constraints are as follows:<br />
 ![](https://github.com/BanafshehKarimian/decomposition_methods/blob/main/img/ADMM%20constraints.JPG)<br />
 The Lp function : <br />
 ![](https://github.com/BanafshehKarimian/decomposition_methods/blob/main/img/Lp.JPG)<br />
-extra connstrains for ADMM:<br />
+Other connstrains for ADMM:<br />
 ![](https://github.com/BanafshehKarimian/decomposition_methods/blob/main/img/other%20constraints%20ADMM%20format.JPG)<br />
